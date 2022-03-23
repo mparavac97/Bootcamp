@@ -1,0 +1,24 @@
+CREATE DATABASE BootcampDB;
+
+CREATE TABLE Company (
+	CompanyID UNIQUEIDENTIFIER PRIMARY KEY default NEWID(),
+	CompanyName VARCHAR(50),
+	CompanyAddress VARCHAR(50)
+);
+
+CREATE TABLE Director (
+	DirectorID UNIQUEIDENTIFIER PRIMARY KEY default NEWID(),
+	FirstName VARCHAR(50),
+	LastName VARCHAR(50),
+	CompanyID  UNIQUEIDENTIFIER,
+	FOREIGN KEY (CompanyID) REFERENCES Company(CompanyID)
+);
+
+CREATE TABLE Movie (
+	MovieID UNIQUEIDENTIFIER PRIMARY KEY default NEWID(),
+	MovieName VARCHAR(50),
+	ReleaseYear INT,
+	DirectorID UNIQUEIDENTIFIER,
+	FOREIGN KEY (DirectorId) REFERENCES Director(DirectorID)
+);
+
