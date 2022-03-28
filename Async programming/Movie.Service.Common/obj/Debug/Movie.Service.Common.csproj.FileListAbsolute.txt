@@ -1,0 +1,10 @@
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Service.Common.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Service.Common.pdb
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Model.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Model.Common.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Model.pdb
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\bin\Debug\Movie.Model.Common.pdb
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\obj\Debug\Movie.Service.Common.csprojAssemblyReference.cache
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\obj\Debug\Movie.Service.Common.csproj.CopyComplete
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\obj\Debug\Movie.Service.Common.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Service.Common\obj\Debug\Movie.Service.Common.pdb

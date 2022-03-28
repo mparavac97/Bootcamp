@@ -1,0 +1,5 @@
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Model.Common\bin\Debug\Movie.Model.Common.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Model.Common\bin\Debug\Movie.Model.Common.pdb
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Model.Common\obj\Debug\Movie.Model.Common.csprojAssemblyReference.cache
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Model.Common\obj\Debug\Movie.Model.Common.dll
+C:\Users\Snježana\source\repos\BootcampTest\Movie.Model.Common\obj\Debug\Movie.Model.Common.pdb
